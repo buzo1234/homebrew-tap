@@ -1,8 +1,8 @@
 class Knockdrop < Formula
   desc "Share files between Macs by knocking the same rhythm"
   homepage "https://github.com/buzo1234/knockdrop"
-  url "https://github.com/buzo1234/knockdrop/releases/download/v0.1.6/knockdrop-0.1.6.tar.gz"
-  sha256 "e40d2269cd915422359de0f72fe46b064dc21c97a5f5dc0d219de476872b0e26"
+  url "https://github.com/buzo1234/knockdrop/releases/download/v0.1.7/knockdrop-0.1.7.tar.gz"
+  sha256 "5eb55177e87ff868fd8e46a1c71f62935c0427803967ca3b57480d7ba392e995"
   license "MIT"
 
   depends_on :macos
